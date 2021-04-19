@@ -1881,7 +1881,7 @@ Ver [Informe](https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitale
 |150131|Lima |Lima|San Isidro|67,703|0.0|0.1|28| 1 874|
 | | | | | | | | | |
 
-* Población proyectada a junio del 2020.
+\* Población proyectada a junio del 2020.
 ** La conformación de los grupos robustos excluye los distritos desagregados.
 *** Los distritos se ordenaron de mayor a menor en función al porcentaje de pobreza monetaria total de los distritos.
 Fuente: Instituto Nacional de Estadística e Informática INEI - Mapa de Pobreza Monetaria Provincial y Distrital 2018.
